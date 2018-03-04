@@ -1,0 +1,22 @@
+{
+  "name": "learn-docker-for-youtube",
+  "version": "1.0.0",
+  "description": "This is the basic node/express js sever",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahsan26/Learn-Docker-For-Youtube.git"
+  },
+  "author": "Ahsan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ahsan26/Learn-Docker-For-Youtube/issues"
+  },
+  "homepage": "https://github.com/ahsan26/Learn-Docker-For-Youtube#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
